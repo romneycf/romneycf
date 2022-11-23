@@ -1,20 +1,9 @@
 <div id="header" align="center">
-  <table>
-    <tr>
-      <td>
-        <a href="https://github.com/romneycf">  
-          <img src="https://avatars.githubusercontent.com/u/91398343?s=400&u=9e9426724543838a6860a08d71c26445d38b6c20&v=4" width="100"/>
-          <h3>Github</h3> 
-        </a>        
-      </td>
-      <td>
-        <h3>Gitlab</h3>
-        <a href="https://gitlab.totvs.amplis.com.br/r.cfreire">
-          <img src="https://gitlab.totvs.amplis.com.br/uploads/-/system/user/avatar/464/avatar.png?width=400" width="100"/>
-        </a>
-      </td>
-    </tr>
-  </table>
+  
+  <a href="https://github.com/romneycf"><img src="https://avatars.githubusercontent.com/u/91398343?s=400&u=9e9426724543838a6860a08d71c26445d38b6c20&v=4" width="100"/></a>     <a href="https://gitlab.totvs.amplis.com.br/r.cfreire"><img src="https://gitlab.totvs.amplis.com.br/uploads/-/system/user/avatar/464/avatar.png?width=400" width="100"/></a>
+
+  <a href="https://github.com/romneycf"><img src="https://img.shields.io/badge/Github-black?style=for-the-badge&logo=github&logoColor=white" alt="Github Badge"/></a>     <a href="https://gitlab.totvs.amplis.com.br/r.cfreire"><img src="https://img.shields.io/badge/Gitlab-white?style=for-the-badge&logo=gitlab&logoColor=black" alt="Github Badge"/></a>
+
   <div id="badges">
   <a href="https://www.linkedin.com/in/romney-freire-50a96795/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
