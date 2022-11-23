@@ -28,7 +28,7 @@
 ----
 
 ### :man_technologist: About Me :
-I am Romney Corrêa Freire, a Stack Developer at RBMWEB Sistemas Inteligentes.
+I am Romney Corrêa Freire, a Full Stack Developer at RBMWEB Sistemas Inteligentes.
 - :desktop_computer: I’m working as a Software Analyst and contributing to frontend and backend for building web applications.
 
 - :muscle: Always looking to improve. Challenges are welcomed.
