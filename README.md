@@ -1,6 +1,6 @@
 <div id="header" align="center">
   
-  <a href="https://github.com/romneycf"><img src="https://avatars.githubusercontent.com/u/91398343?s=400&u=9e9426724543838a6860a08d71c26445d38b6c20&v=4" width="100"/></a>     <a href="https://gitlab.totvs.amplis.com.br/r.cfreire"><img src="https://gitlab.totvs.amplis.com.br/uploads/-/system/user/avatar/464/avatar.png?width=400" width="100"/></a>
+  <a href="https://github.com/romneycf"><img src="https://avatars.githubusercontent.com/u/91398343?s=400&u=9e9426724543838a6860a08d71c26445d38b6c20&v=4" width="100"/></a>     <a href="https://gitlab.totvs.amplis.com.br/r.cfreire"><img src="https://media.licdn.com/dms/image/D4D03AQEAJ1L8jljHtw/profile-displayphoto-shrink_200_200/0/1683935612545?e=1693440000&v=beta&t=2QhAKCv1NU-s6oxV_Cx9ijYW4Cq-30luSQ3ei-tewU4" width="100"/></a>
 
   <a href="https://github.com/romneycf"><img src="https://img.shields.io/badge/Github-black?style=for-the-badge&logo=github&logoColor=white" alt="Github Badge"/></a>     <a href="https://gitlab.totvs.amplis.com.br/r.cfreire"><img src="https://img.shields.io/badge/Gitlab-white?style=for-the-badge&logo=gitlab&logoColor=black" alt="Github Badge"/></a>
 
@@ -20,9 +20,6 @@
   I AÊ? 
   :love_you_gesture:
   </h2>
-</div>
-<div align="center">
-  <img src="https://media-exp1.licdn.com/dms/image/C4D16AQFy_YqzTRVMAA/profile-displaybackgroundimage-shrink_350_1400/0/1634998815318?e=1674691200&v=beta&t=YPNuoGTE9W3oyMpJKugRtQfHiOjpnCTQcIODNWkwEH4" width="600" height="300"/>
 </div>
 
 ----
