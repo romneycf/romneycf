@@ -1,8 +1,8 @@
 <div id="header" align="center">
   
-  <a href="https://github.com/romneycf"><img src="https://avatars.githubusercontent.com/u/91398343?s=400&u=9e9426724543838a6860a08d71c26445d38b6c20&v=4" width="100"/></a>     <a href="https://gitlab.totvs.amplis.com.br/r.cfreire"><img src="https://media.licdn.com/dms/image/D4D03AQEAJ1L8jljHtw/profile-displayphoto-shrink_200_200/0/1683935612545?e=1693440000&v=beta&t=2QhAKCv1NU-s6oxV_Cx9ijYW4Cq-30luSQ3ei-tewU4" width="100"/></a>
+  <a href="https://github.com/romneycf"><img src="https://avatars.githubusercontent.com/u/91398343?s=400&u=9e9426724543838a6860a08d71c26445d38b6c20&v=4" width="100"/></a>
 
-  <a href="https://github.com/romneycf"><img src="https://img.shields.io/badge/Github-black?style=for-the-badge&logo=github&logoColor=white" alt="Github Badge"/></a>     <a href="https://gitlab.totvs.amplis.com.br/r.cfreire"><img src="https://img.shields.io/badge/Gitlab-white?style=for-the-badge&logo=gitlab&logoColor=black" alt="Github Badge"/></a>
+  <a href="https://github.com/romneycf"><img src="https://img.shields.io/badge/Github-black?style=for-the-badge&logo=github&logoColor=white" alt="Github Badge"/></a>
 
   <div id="badges">
     <a href="https://www.linkedin.com/in/romney-freire-50a96795/">
@@ -25,7 +25,7 @@
 ----
 
 ### :man_technologist: About Me :
-I am Romney Corrêa Freire, a Full Stack Developer at RBMWEB Sistemas Inteligentes.
+I am Romney Corrêa Freire, a Software Engineer at Conta Simples.
 - :desktop_computer: I’m working as a Software Analyst and contributing to frontend and backend for building web applications.
 
 - :muscle: Always looking to improve. Challenges are welcomed.
@@ -58,9 +58,6 @@ I am Romney Corrêa Freire, a Full Stack Developer at RBMWEB Sistemas Inteligent
 <a href="https://codeigniter.com" target="_blank" rel="noreferrer"> 
   <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="codeigniter" width="40" height="40"/> 
 </a>
-<a href="https://laravel.com/" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> 
-</a> 
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
 </a> 
